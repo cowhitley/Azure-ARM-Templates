@@ -190,10 +190,7 @@
                     "dataDisks": [
                         {
                             "lun": 0,
-                            "name": "data1",
-                            "createOption": "Attach",
-                            "caching": "None",
-                            "writeAcceleratorEnabled": false,
+							"createOption": "Empty",
                             "managedDisk": {
                                 "storageAccountType": "UltraSSD_LRS"
                             }
