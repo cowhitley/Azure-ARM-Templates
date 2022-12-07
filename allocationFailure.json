@@ -196,9 +196,7 @@
                             "writeAcceleratorEnabled": false,
                             "managedDisk": {
                                 "storageAccountType": "UltraSSD_LRS"
-                            },
-                            "deleteOption": "Detach",
-                            "toBeDetached": false
+                            }
                         }
                     ]
 				},
