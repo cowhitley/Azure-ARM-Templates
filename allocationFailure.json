@@ -189,6 +189,7 @@
 					},
                     "dataDisks": [
                         {
+							"diskSizeGB": 4,
                             "lun": 0,
 							"createOption": "Empty",
                             "managedDisk": {
